@@ -1,0 +1,36 @@
+img {
+	width:200;
+	border:2px solid pink;
+}
+
+div {
+	
+}
+
+body {
+	
+		 background-image: url('Images/background.png');
+		 background-repeat:no-repeat;
+		 background-position: 0% 50%;
+		 background-attachment: fixed;
+		
+
+	font-family: Arial;
+}
+
+
+.red {
+	
+	
+}
+
+.pink {
+	
+	background: rgba(255, 237, 244, 0.5);
+	border: 2px solid pink ;
+}
+
+
+#specialStyle {
+	border: 2x solid red;
+}
